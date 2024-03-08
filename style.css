@@ -3,3 +3,28 @@ body {
   height: 100%;
   margin: 0;
 }
+
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: aqua;
+}
+
+.main { 
+text-align: center;
+width: 800px;
+margin-right: auto;
+margin-left: auto;
+}
+
+.flex-item {
+  float: left;
+  border: 1px;
+  background-color: red;
+  width: 25%;
+  text-align: center;
+}
+figure{
+  text-align: center;
+}
+
